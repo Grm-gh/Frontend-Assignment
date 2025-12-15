@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* optional small helpers used by the design */
+html,body,#root {
+  height: 100%;
+}
+
+/* you can add small custom utilities if needed */
